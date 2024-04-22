@@ -1,4 +1,5 @@
-[[FIFO]]
+#FIFO
+#자료구조 
 
 ![](https://blog.kakaocdn.net/dn/ZgQy8/btsnujqBoNk/PxvJ4miUr3m1yAcdtViKa0/img.png)
 
