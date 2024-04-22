@@ -11,22 +11,12 @@
             "id": "682633136dac4b66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "691c66d300fb78bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f71e0a5ddd89ebb0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/스택 (Stack).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -95,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "자료구조/스택 (Stack).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "자료구조/스택 (Stack).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "자료구조/스택 (Stack).md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +148,12 @@
   },
   "active": "682633136dac4b66",
   "lastOpenFiles": [
+    "자료구조/데큐 (Deque).md",
+    "자료구조/스택 (Stack).md",
+    "자료구조/자료 구조.md",
+    "자료구조/큐 (Queue).md",
+    "자료구조",
+    "코딩테스트",
     "무제 파일.canvas",
     "2024-04-22.md",
     "Docker.md",
