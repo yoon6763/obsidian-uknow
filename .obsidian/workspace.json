@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "RealMySQL/4장 아키텍처.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "529952465224287f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "RealMySQL/4장 아키텍처.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "RealMySQL/4장 아키텍처.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "RealMySQL/4장 아키텍처.md"
               }
             }
           }
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,8 +162,19 @@
   },
   "active": "184490754c43d96f",
   "lastOpenFiles": [
-    "자료구조/자료 구조.md",
+    "Pasted image 20240515030547.png",
+    "Pasted image 20240515024852.png",
+    "Pasted image 20240515024623.png",
+    "Pasted image 20240515023822.png",
+    "Pasted image 20240515022907.png",
+    "Pasted image 20240515022307.png",
+    "RealMySQL/4장 아키텍처.md",
+    "Pasted image 20240515022551.png",
+    "Pasted image 20240515021327.png",
     "Docker.md",
+    "무제 파일.md",
+    "RealMySQL",
+    "자료구조/자료 구조.md",
     "자료구조/큐 (Queue).md",
     "자료구조/스택 (Stack).md",
     "자료구조/분리집합 + 유니온 파인드 (Union - Find).md",
