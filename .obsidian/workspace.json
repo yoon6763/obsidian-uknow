@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RealMySQL/4장 아키텍처.md",
+                "file": "RealMySQL/5장 트랜잭션과 잠금.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMySQL/4장 아키텍처.md",
+                "file": "RealMySQL/5장 트랜잭션과 잠금.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMySQL/4장 아키텍처.md",
+                "file": "RealMySQL/5장 트랜잭션과 잠금.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMySQL/4장 아키텍처.md"
+                "file": "RealMySQL/5장 트랜잭션과 잠금.md"
               }
             }
           }
@@ -157,20 +157,21 @@
   },
   "active": "682633136dac4b66",
   "lastOpenFiles": [
-    "Pasted image 20240522024001.png",
-    "Pasted image 20240522023911.png",
-    "Pasted image 20240522023818.png",
-    "Pasted image 20240522022612.png",
-    "Pasted image 20240522014014.png",
-    "Pasted image 20240521123959.png",
-    "Pasted image 20240521123638.png",
-    "Pasted image 20240521123630.png",
-    "Pasted image 20240521101655.png",
-    "Pasted image 20240520202235.png",
-    "무제 파일.canvas",
+    "Pasted image 20240529003726.png",
+    "Pasted image 20240529003721.png",
+    "Pasted image 20240529003653.png",
+    "Pasted image 20240529003538.png",
     "RealMySQL/4장 아키텍처.md",
+    "RealMySQL/5장 트랜잭션과 잠금.md",
+    "RealMySQL/이미지/Pasted image 20240520181937.png",
+    "RealMySQL/이미지/Pasted image 20240522024001.png",
+    "RealMySQL/이미지/Pasted image 20240522023911.png",
+    "RealMySQL/이미지/Pasted image 20240522023818.png",
+    "RealMySQL/이미지/Pasted image 20240522022612.png",
+    "RealMySQL/이미지/Pasted image 20240522014014.png",
+    "RealMySQL/이미지/Pasted image 20240521123959.png",
+    "무제 파일.canvas",
     "자료구조/분리집합 + 유니온 파인드 (Union - Find).md",
-    "Pasted image 20240520181937.png",
     "RealMySQL/이미지",
     "Docker.md",
     "무제 파일.md",
