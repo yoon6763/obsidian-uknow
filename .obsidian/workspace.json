@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "03e1d365c97095a7",
@@ -148,6 +148,8 @@
   },
   "active": "6064348a7a29bb2c",
   "lastOpenFiles": [
+    "RealMySQL/8장 인덱스.md",
+    "RealMySQL/9장 옵티마이저와 힌트.md",
     "Pasted image 20240711002136.png",
     "Pasted image 20240711002132.png",
     "Pasted image 20240711001546.png",
@@ -155,15 +157,12 @@
     "Pasted image 20240710224835.png",
     "Pasted image 20240710224618.png",
     "Pasted image 20240710223233.png",
-    "RealMySQL/8장 인덱스.md",
-    "RealMySQL/9장 옵티마이저와 힌트.md",
     "Pasted image 20240704185321.png",
     "Pasted image 20240613204918.png",
     "RealMySQL/8장 8.4 이후.md",
     "Docker.md",
     "무제 파일.canvas",
     "Pasted image 20240704183156.png",
-    "Pasted image 20240703225424.png",
     "Welcome.md",
     "RealMySQL/5장 트랜잭션과 잠금.md",
     "RealMySQL/4장 아키텍처.md",
