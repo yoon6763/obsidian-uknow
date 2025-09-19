@@ -16,10 +16,37 @@
                 "file": "RealMySQL/9장 옵티마이저와 힌트.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "9장 옵티마이저와 힌트"
+            }
+          },
+          {
+            "id": "d51d2f649575be80",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "77e48cd573132abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 파일"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -54,7 +83,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -62,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RealMySQL/9장 옵티마이저와 힌트.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "무제 파일의 백링크"
             }
           },
           {
@@ -102,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RealMySQL/9장 옵티마이저와 힌트.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "무제 파일의 나가는 링크"
             }
           },
           {
@@ -116,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RealMySQL/9장 옵티마이저와 힌트.md"
-              }
+                "file": "무제 파일.md"
+              },
+              "icon": "lucide-list",
+              "title": "무제 파일 개요"
             }
           }
         ]
@@ -146,8 +187,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6064348a7a29bb2c",
+  "active": "77e48cd573132abb",
   "lastOpenFiles": [
+    "Docker.md",
+    "무제 파일.md",
     "Pasted image 20240806225942.png",
     "RealMySQL/9장 옵티마이저와 힌트.md",
     "Pasted image 20240806002523.png",
@@ -157,13 +200,11 @@
     "RealMySQL/4장 아키텍처.md",
     "무제 파일.canvas",
     "RealMySQL/이미지/Pasted image 20240613204918 1.png",
-    "Docker.md",
     "RealMySQL/8장 인덱스.md",
     "RealMySQL/이미지/Pasted image 20240711002136.png",
     "RealMySQL/이미지/Pasted image 20240711002132.png",
     "RealMySQL/이미지/Pasted image 20240711001546.png",
     "RealMySQL/이미지/Pasted image 20240710225313.png",
-    "RealMySQL/이미지/Pasted image 20240710224835.png",
     "RealMySQL/8장 8.4 이후.md",
     "Welcome.md",
     "RealMySQL/5장 트랜잭션과 잠금.md",
